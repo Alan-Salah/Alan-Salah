@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alan-Salah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript / html / css
+- 🌱 I’m currently learning php / html / css
 - 💞️ I’m looking to collaborate on website
 - 📫 How to reach me ...
 
